@@ -1,6 +1,6 @@
 # 리액트로 만드는 Todo list 
 
-[demo](https://my-app-yesjean.vercel.app/)
+[결과물 보기](https://my-app-yesjean.vercel.app/)
 
 ![demo](./demo.png)
 
